@@ -1,4 +1,4 @@
-# consumer_transactional_predictions
+# Bucketing Customer Transactions using ML
 This project involves using Machine Learning to accurately classify transactional data as income or not income based on the following features:
 * Date
 * Debit/Credit

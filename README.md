@@ -21,6 +21,10 @@ Note: Categorical Type has been found to be inconsistent as some data has been a
 
 - **My Solution:** I built a model which looked at the categorical, text, date and amount to predict if the transaction is income and not income.  Later in the notes will I discuss a cost benefit matrix which can be beneficial when determining if you rather have more False Positives or False Negatives since the model will never be perfect.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2kyB9_sbj_I"><img src="https://img.youtube.com/vi/2kyB9_sbj_I/0.jpg" alt="IMAGE ALT TEXT"></a>
+</p>
+
 ## Step 1: Obtain Data and Explore It
 Here are the high-level steps for dealing with the data:
 1) Receive access to the database (MySQL EC2 AWS) - In this case I present the code as if you have the CSV files
